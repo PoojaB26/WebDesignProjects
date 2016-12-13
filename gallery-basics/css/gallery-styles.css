@@ -1,0 +1,19 @@
+body{
+    background-color: #000;
+    color:#fff;
+}
+
+#thumbnails{
+    width: 90%;
+    height: 20%;
+}
+
+.preview{
+    width: 250px;
+    height: 180px;
+    opacity: 0.5;
+}
+
+.preview:hover{
+    opacity: 1;
+}
