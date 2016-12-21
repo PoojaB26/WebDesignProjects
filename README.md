@@ -1,6 +1,6 @@
 # Web Design Basics
 
-Self teaching web design tools and techniques. The idea is to create a basic website with minimal features as I begin and then go onto to make complex websites and even copies of popular websites.
+Self teaching web design tools and techniques. The idea is to create a web design element or a basic website with minimal features as I begin and then go onto to make complex websites and even copies of popular websites.
 
 ## List of websites so far
 * [Gallery I](https://github.com/PoojaB26/web-design-basics/tree/master/gallery-basics) - using pure javascript
