@@ -1,2 +1,2 @@
-* Animations
-** Plus to Equal Transition
+# Animations
+## Plus to Equal Transition
