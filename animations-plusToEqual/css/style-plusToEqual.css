@@ -14,7 +14,9 @@ h3 { color: white; }
     content: " ";
 }
 #nav-toggle span:before {
-    top: -10px;
+
+    transform: rotate(90deg);
+
 }
 
 
@@ -28,8 +30,7 @@ h3 { color: white; }
     top: 0;
 }
 #nav-toggle.active span:before {
-    transform: rotate(90deg);
-}
-#nav-toggle.active span:after {
     transform: rotate(180deg);
+    top:-10px;
 }
+
