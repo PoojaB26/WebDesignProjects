@@ -5,6 +5,7 @@ Self teaching web design tools and techniques. The idea is to create a web desig
 ## List of websites so far
 * [Gallery I](https://github.com/PoojaB26/web-design-basics/tree/master/gallery-basics) - using pure javascript
 * [404 Page Not Found](https://github.com/PoojaB26/web-design-basics/tree/master/404-page) 
+* [CSS Animations I](https://github.com/PoojaB26/web-design-basics/tree/master/animations-plusToEqual)
 
 ## Built With
 
