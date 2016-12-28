@@ -10,7 +10,7 @@ Self teaching web design tools and techniques. The idea is to create a web desig
 
 * [Webstorm](https://www.jetbrains.com/webstorm/) - The javascript IDE
 
-## Authors
+## Author
 
 **Pooja Bhaumik** 
 
