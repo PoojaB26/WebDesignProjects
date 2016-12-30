@@ -1,11 +1,23 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" xmlns="http://www.w3.org/1999/html">
 <head>
     <meta charset="UTF-8">
+<!--
+    <link rel="stylesheet" type="text/css" href="css/style-plusToEqual.css">
+-->
     <title>Temperature Conversion</title>
 </head>
 <body>
-<div id="box"></div>
+<div id="form-box">
+    <fieldset>
+    <legend><span class="number">1 </span> Temperature Conversion </legend>
+        <input type="number" id="c" name="celsius" placeholder="Celsius degree" onkeyup="convert('C')"><br><br>
+        <input type="number" id="f" name="fahr" placeholder="Fahrenheit degree" onkeyup="convert('F')"><br><br>
 
+
+    </fieldset>
+</div>
+
+<script type="text/javascript" src="js/function-temperatureConversion.js"></script>
 </body>
 </html>
