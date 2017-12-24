@@ -1,4 +1,4 @@
-# Web Design Basics
+# Web Design Projects
 
 Self teaching web design tools and techniques. The idea is to create a web design element or a basic website with minimal features as I begin and then go onto to make complex websites and even copies of popular websites.
 
@@ -15,6 +15,6 @@ Self teaching web design tools and techniques. The idea is to create a web desig
 
 **Pooja Bhaumik** 
 
-*I initially started designing and then got into developing Android applications 2 years ago. I currently have a released educational app in the Play Store with more than 10K downloads, a former internship in Android UI development and UX design and about 5-6 personal Android projects that I either built for myself or hackathons. I find Android development really interesting and very important since everything's on the phone nowadays but over the years, website design has really caught my attention. It got me curious about the work behind all the interesting stuff I see on screen. Since I am just a sophomore, I thought it's also necessary to broaden my skills so that its easier to choose a field later on.*
+*I initially started designing and then got into developing Android applications 3 years ago. I currently have a released educational app in the Play Store with more than 10K downloads, a couple of internship experience in Android UI development and UX design and a number of personal Android projects that I either built for myself or hackathons. I find Android development really interesting and very important since everything's on the phone nowadays but over the years, website design has really caught my attention. It got me curious about the work behind all the interesting stuff I see on screen. Since I am just in college, I thought it's also necessary to broaden my skills so that its easier to choose a field later on.*
 
 *I hope you enjoy building websites with me. For any query, contact me at pbhaumik26@gmail.com.*
