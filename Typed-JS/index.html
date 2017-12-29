@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Animated typing effect using typed js</title>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script type="text/javascript" src="https://cdn.bootcss.com/typed.js/1.1.4/typed.min.js"></script>
+    <style type="text/css">
+        .write{
+            font-size: 22px;
+        }
+        .container{
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+
+
+<div class="container">
+    <span class="write"></span>
+</div>
+
+
+<script type="text/javascript">
+    $(function(){
+        $(".write").typed({
+            strings: [ "git push --force ^1000\n `pushed`", "", "Hello"],
+            typeSpeed : 50,
+            startDelay : 2000,
+            smartBackspace: true,
+            shuffle : true,
+            backSpeed : 10,
+            backDelay : 2000,
+         //   fadeOut : true,
+        });
+    });
+
+
+</script>
+
+
+</body>
+</html>
